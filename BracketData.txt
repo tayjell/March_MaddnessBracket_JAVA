@@ -1,0 +1,140 @@
+Champion:
+Duke
+
+Finals:
+Duke
+UNC
+
+Final Four:
+Duke
+Michigan
+Tenn
+UNC
+
+Elite Eight:
+Duke
+Michigan State
+Florida State
+Michigan
+Virginia
+Tenn
+UNC
+Kentucky
+
+Sweet Sixteen:
+Duke
+Virginia Tech
+Maryland
+Michigan State
+Gonzaga
+Florida State
+Texas Tech
+Michigan
+Virginia
+Wisconsin
+Purdue
+Tenn
+UNC
+Auburn
+Iowa State
+Kentucky
+
+Round Of 32:
+Duke
+UCF
+Liberty
+Virginia Tech
+Maryland
+LSU
+Louisville
+Michigan State
+Gonzaga
+Syracuse
+Murray State
+Florida State
+Buffalo
+Texas Tech
+Florida
+Michigan
+Virginia
+Ole Miss
+Wisconsin
+Kansas State
+Villanova
+Purdue
+Cincinnati
+Tenn
+UNC
+Utah State
+Auburn
+Kansas
+Iowa State
+Houston
+Wofford
+Kentucky
+
+Round Of 64:
+Duke
+NC Central
+VCU
+UCF
+Miss State
+Liberty
+Virginia Tech
+Saint Louis
+Maryland
+Temple
+LSU
+Yale
+Louisville
+Minnesota
+Michigan State
+Bradley
+Gonzaga
+PV A&M
+Syracuse
+Baylor
+Marquette
+Murray State
+Florida State
+Vermont
+Buffalo
+Arizona State
+Texas Tech
+North Kentucky
+Nevada
+Florida
+Michigan
+Montana
+Virginia
+Webb
+Ole Miss
+Oklahoma
+Wisconsin
+Oregon
+Kansas State
+UC-Irvine
+Villanova
+Saint Mary's
+Purdue
+Old Dominion
+Cincinnati
+Iowa
+Tenn
+Colgate
+UNC
+Iowa
+Utah State
+Washington
+Auburn
+New Mexico State
+Kansas
+Northeastern
+Iowa State
+Ohio State
+Houston
+Georgia State
+Wofford
+Seton Hall
+Kentucky
+Albilene
